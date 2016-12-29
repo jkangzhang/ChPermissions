@@ -2,7 +2,7 @@
 
 ChPermissions helps you with the logic of runtime permissions easily on Android M or higher. After a simple steps of initialization you can easily controll your permissions with annotations and callbacks.
 
-## Before Use
+## Before Using
 
 In this library, we defined two types of Permission:
  <b>Static Permission</b> and <b>Runtime Permission</b>.  
